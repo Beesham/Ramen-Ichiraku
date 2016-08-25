@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ramen Ichiraku</string>
+
+    <string name="info">Info:</string>
+    <string name="business_name" translatable="false">Ramen Ichiraku</string>
+    <string name="phone_number">Tel #: 905-465-5412</string>
+    <string name="address">Address: 86 Bento Street, Konohagakure</string>
+    <string name="hours_operation">Hours of Operation: Sunday - Saturday, 8am - 10pm</string>
+
+</resources>
