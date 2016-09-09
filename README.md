@@ -3,6 +3,9 @@ Ramen Ichiraku
 
 This is an Android application that displays a business's details. In this case, the business is a Ramen shop called Ramen Ichiraku.
 
+![screenshot sep 9 2016 3-10-02 pm](https://cloud.githubusercontent.com/assets/10713096/18399673/c16f9048-7697-11e6-9d08-b26e37bef913.png)
+
+
 Pre-requisites
 --------------
 
